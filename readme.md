@@ -1,6 +1,6 @@
   # Hi, there! :wave::smiley:
 
-  I'm Roy Chan! I am an addicted programmer having engaged with my PC in 10+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
+  I am an addicted programmer having engaged with my PC in 10+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
   
